@@ -3,7 +3,7 @@
 <h1> Ideia do projeto </h1>
 
 ### "Unir o últil ao agradável" Apaixonado por carros desde criança, e agora por programação, nada melhor do que unir essas duas paixões em projeto próprio.
-O projeto possui todos os carros de todas as marcar com uma barra de pesquisa para facilitar a localização do seu automóvel favorito.
+O projeto possui todos os carros de todas as marcas e com uma barra de pesquisa para facilitar a localização do seu automóvel favorito.
    
 <h1> Por quê? </h1> 
  Projeto feito para praticar React, no qual me dediquei muito para fazer,  então ficarei feliz se você puder me fornecer um feedback sobre o projeto, código, estrutura ou qualquer outra coisa que você possa relatar que me torne um programador cade vez melhor! 
